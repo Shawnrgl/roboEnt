@@ -28,6 +28,18 @@ componentDidMount(){
     const filteredRobots= this.state.Robots.filter(robot => {
       return robot.name.toLowerCase().includes(this.state.searchfield.toLowerCase())
     })
+
+    if (filteredRobots.length === 0) {
+      return (
+      <div className="tc">
+        <h1 className='f1'> Robot Enterprises</h1>
+        <Searchbox searchChange={this.onSearchChange}/>       
+        <h3>No Robots with that Name</h3>    
+      </div>
+      )
+      
+    }
+else{
     return (
       <div className="tc">
         <h1 className='f1'> Robot Enterprises</h1>
@@ -37,6 +49,7 @@ componentDidMount(){
         </Scroll>
       </div>
     );
+}
   }
 }
 
