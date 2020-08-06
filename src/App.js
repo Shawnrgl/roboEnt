@@ -32,7 +32,7 @@ componentDidMount(){
     if (filteredRobots.length === 0) {
       return (
       <div className="tc">
-        <h1 className='f1'> Robot Enterprises</h1>
+        <h2 className='f1 hd1'> Robot Enterprises</h2>
         <Searchbox searchChange={this.onSearchChange}/>       
         <h3>No Robots with that Name</h3>    
       </div>
@@ -42,7 +42,7 @@ componentDidMount(){
 else{
     return (
       <div className="tc">
-        <h1 className='f1'> Robot Enterprises</h1>
+        <h2 className='f1 hd1'> Robot Enterprises</h2>
         <Searchbox searchChange={this.onSearchChange}/>
         <Scroll>
         <CardList Robots={filteredRobots} />

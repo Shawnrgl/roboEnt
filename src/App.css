@@ -5,11 +5,11 @@
   src: local('Rebel Command Regular'), url('RebelCommand-PKqGx.woff') format('woff');
   }
 
-  h1{
+  .hd1{
     font-family: 'Rebel Command Regular';
     font-weight: 100;
     color : #0ccac4;
-   font-size: 20px;
+   font-size: 40px;
   }
 
   h3{
