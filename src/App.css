@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Rebel Command Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rebel Command Regular'), url('RebelCommand-PKqGx.woff') format('woff');
+  }
+
+  h1{
+    font-family: 'Rebel Command Regular';
+    font-weight: 100;
+    color : #0ccac4;
+  }
