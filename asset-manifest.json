@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboEnt/static/css/main.53eac85d.chunk.css",
+    "main.js": "/roboEnt/static/js/main.a4f3e295.chunk.js",
+    "main.js.map": "/roboEnt/static/js/main.a4f3e295.chunk.js.map",
+    "runtime-main.js": "/roboEnt/static/js/runtime-main.f7b2e010.js",
+    "runtime-main.js.map": "/roboEnt/static/js/runtime-main.f7b2e010.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboEnt/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/roboEnt/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/roboEnt/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/roboEnt/index.html",
+    "precache-manifest.2c1c9e1ea29117d575886bd4628e0a22.js": "/roboEnt/precache-manifest.2c1c9e1ea29117d575886bd4628e0a22.js",
+    "service-worker.js": "/roboEnt/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboEnt/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.53eac85d.chunk.css.map": "/roboEnt/static/css/main.53eac85d.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/roboEnt/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboEnt/static/media/RebelCommand-PKqGx.b7d48367.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7b2e010.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.53eac85d.chunk.css",
+    "static/js/main.a4f3e295.chunk.js"
+  ]
+}
